@@ -19,12 +19,12 @@ Below you will find my practical testing projects. Each project contains detaile
 
 ---
 
-### Project 1: Ad-hoc & UI/UX Testing of ScriptRun.ai
-**Description:** A comprehensive exploratory testing session of the ScriptRun.ai website, focusing on usability and functional defects.
+### Project 1: UI/UX & Functional Testing of Flowwow.com
+**Description:** Exploratory testing of a leading flower and gift delivery service. The focus was on the core user journey: browsing categories, using search, and adding items to the cart.
 **Key Findings:**
-*   Identified and documented 3 critical UI/UX bugs.
-*   Provided actionable suggestions for improving user experience.
-*   [View Bug Reports & Findings -->](./Project_ScriptRun_AI/)
+*   Identified and documented UI inconsistencies and functional defects on the main page.
+*   Provided suggestions to enhance the user experience and interface reliability.
+*   [View Bug Reports & Findings -->](./Project_Flowwow/)
 
 ---
 *(Мы добавим сюда другие проекты позже)*
