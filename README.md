@@ -39,5 +39,5 @@ Below you will find my practical testing projects. Each project contains detaile
 ## Contact Me
 
 I am always open to new opportunities and connections.
-*   **LinkedIn:** [Add your LinkedIn profile link here]
-*   **Email:** [Add your professional email here]
+*   **Telegram:**
+*   **Email:** 
