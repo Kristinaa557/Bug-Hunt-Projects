@@ -20,11 +20,15 @@ Below you will find my practical testing projects. Each project contains detaile
 ---
 
 ### Project 1: UI/UX & Functional Testing of Flowwow.com
-**Description:** Exploratory testing of a leading flower and gift delivery service. The focus was on the core user journey: browsing categories, using search, and adding items to the cart.
+
+**Description:** Exploratory testing of a flower and gift delivery service, focusing on core user journey and interface quality.
+
 **Key Findings:**
-*   Identified and documented UI inconsistencies and functional defects on the main page.
-*   Provided suggestions to enhance the user experience and interface reliability.
-*   [View Bug Reports & Findings -->](./Project_Flowwow/)
+- Identified and documented UI inconsistencies and functional defects
+- Provided actionable suggestions for UX improvements  
+- Covered search, registration, and shopping cart functionality
+
+[View Bug Reports & Findings →](./Project_Flowwow/)
 
 ---
 *(Мы добавим сюда другие проекты позже)*
