@@ -2,7 +2,7 @@
 
 **Назначение:** Проверка API endpoints и интеграций  
 **Инструменты:** Postman, Chrome DevTools  
-**Базовый URL:** `https://api.flowwow.com` (предположительно)  
+**Базовый URL:** `https://api.flowwow.com` 
 **Формат данных:** JSON
 
 ---
