@@ -10,7 +10,7 @@ Hi, I'm Kristina. I am a passionate Manual QA Engineer with a strong focus on en
 
 *   **Testing Types:** Functional, Regression, Smoke, Sanity, UI/UX, Cross-Browser, API
 *   **Test Design:** Equivalence Partitioning, Boundary Value Analysis, State Transition
-*   **Tools:** DevTools, Postman, TestRail, Jira, Charles Proxy, Git
+*   **Tools:** Jira, Confluence, TestIT, Postman, Charles Proxy, DevTools, Kibana, Android Studio, Xcode, Apache Kafka, Figma, REST API, JSON, Git
 *   **Documentation:** Bug Reports, Test Cases, Checklists, Test Plans
 
 ## Projects
