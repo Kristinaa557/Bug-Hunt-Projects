@@ -34,7 +34,7 @@ Project_Flowwow/
 │   ├── smoke_checklist_web.md
 │   └── regression_checklist_v1.md
 └── api_testing/
-    └── api_checklist.md
+    └── api_checklist.md 
 
 ## Key Findings
 - Discovered 3 reproducible bugs with different severity levels
