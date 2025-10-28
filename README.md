@@ -1,47 +1,48 @@
-# Bug Hunt Projects
+# Bug Hunt Projects | QA Портфолио
 
-Welcome to my Manual QA Engineering portfolio! This repository serves as a showcase of my testing skills, methodology, and attention to detail.
+Добро пожаловать в моё портфолио QA-инженера! Здесь собраны примеры моих работ, подход к тестированию и документация.
 
-## About Me
+## Обо мне
 
-Hi, I'm Kristina. I am a passionate Manual QA Engineer with a strong focus on ensuring software quality through functional, UI/UX, and API testing. I am skilled in test design, bug localization, and creating clear documentation.
+Привет, я Кристина — Manual QA Engineer с фокусом на функциональное, UI/UX и API тестирование. Владею техниками тест-дизайна, локализацией багов и созданием четкой документации.
 
-## Skills
+## Навыки
 
-*   **Testing Types:** Functional, Regression, Smoke, Sanity, UI/UX, Cross-Browser, API
-*   **Test Design:** Equivalence Partitioning, Boundary Value Analysis, State Transition
-*   **Tools:** Jira, Confluence, TestIT, Postman, Charles Proxy, DevTools, Kibana, Android Studio, Xcode, Apache Kafka, Figma, REST API, JSON, Git
-*   **Documentation:** Bug Reports, Test Cases, Checklists, Test Plans
+*   **Типы тестирования:** Функциональное, Регрессионное, Smoke, Sanity, UI/UX, Кросс-браузерное, API
+*   **Тест-дизайн:** Классы эквивалентности, Граничные значения, Таблицы решений
+*   **Инструменты:** Jira, Confluence, TestIT, Postman, Charles Proxy, DevTools, Git
+*   **Документация:** Баг-репорты, Тест-кейсы, Чек-листы, Тест-планы
 
-## Projects
+## Проекты
 
-Below you will find my practical testing projects. Each project contains detailed bug reports and test artifacts.
-
----
-
-### Project 1: UI/UX & Functional Testing of Flowwow.com
-
-**Description:** Exploratory testing of a flower and gift delivery service, focusing on core user journey and interface quality.
-
-**Key Findings:**
-- Identified and documented UI inconsistencies and functional defects
-- Provided actionable suggestions for UX improvements  
-- Covered search, registration, and shopping cart functionality
-
-[View Bug Reports & Findings →](./Project_Flowwow/)
+Ниже представлены мои практические проекты по тестированию. Каждый проект содержит детальные баг-репорты и тестовые артефакты.
 
 ---
-*(Мы добавим сюда другие проекты позже)*
 
-## How to Navigate
+### Проект 1: UI/UX и Функциональное тестирование Flowwow.com
 
-1.  Click on the project links above to explore specific testing efforts.
-2.  Inside each project folder, you will find:
-    *   `bug_reports/` - Detailed bug reports with steps to reproduce.
-    *   `test_documentation/` - Checklists, test cases, or other relevant artifacts.
+**Описание:** Исследовательское тестирование сервиса доставки цветов и подарков с фокусом на основные пользовательские сценарии.
 
-## Contact Me
+**Ключевые находки:**
+- Выявлены и задокументированы проблемы UI и функциональные дефекты
+- Предложены улучшения для пользовательского опыта
+- Протестированы поиск, регистрация и корзина покупок
 
-I am always open to new opportunities and connections.
-*   **Telegram:**
-*   **Email:** 
+[Посмотреть баг-репорты и находки →](./Project_Flowwow/)
+
+---
+*(Другие проекты будут добавлены позже)*
+
+## Как ориентироваться
+
+1.  Перейдите по ссылкам на проекты выше для детального ознакомления
+2.  В каждой папке проекта вы найдете:
+    *   `bug_reports/` - Детальные баг-репорты с шагами воспроизведения
+    *   `test_cases/` - Тест-кейсы и чек-листы
+    *   `checklists/` - Контрольные списки для проверки
+
+## Контакты
+
+Всегда открыта к новым возможностям и знакомствам.
+*   **Telegram:** [@Wakeup_darling]
+*   **Email:** [krista.zykova@gmail.com]
